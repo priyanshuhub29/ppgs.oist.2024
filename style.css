@@ -111,7 +111,7 @@ nav ul li a:hover::after{
 .container p{
     margin-top: 20px;
     display: flex;
-    text-align: center;
+    text-align: start;
     font-size: 2rem;
 }
 .containera{
